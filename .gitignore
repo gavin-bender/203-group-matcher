@@ -1,0 +1,17 @@
+# Student / survey data (never commit)
+student_data/
+test_data/
+
+# Matcher outputs (may contain student emails / uniqnames)
+study_group_emails.txt
+groups.txt
+Groups.txt
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.env.*
